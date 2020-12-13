@@ -1,0 +1,14 @@
+
+######### To run test on desired browser ################
+pytest -v -s test_login.py --browser edge     ----> this will run the the test in edge browser - for this we had made changes in config.py
+
+##########To run tests parallelly######################
+pytest -v -s -n=2 test_login.py ---> this will run 2 tests parallely in chrome browser (chrome because we have made it as default in config.py)
+
+
+########## To generate HTML Reports ########################
+pytest -s -v --html=Reports\report.html testCases/test_login.py   --> updates done in config.py
+
+
+
+
