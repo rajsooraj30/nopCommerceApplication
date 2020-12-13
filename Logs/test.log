@@ -95,3 +95,35 @@
 12/11/2020 08:31:25 AM: INFO: ******PASSED*********
 12/11/2020 08:31:25 AM: INFO: ***********test_login_ddt [PASSED]*************
 12/11/2020 08:31:25 AM: INFO: *************** End of test_login_ddt *******************
+12/13/2020 10:05:34 AM: INFO: ******************** Test_003_AddCustomer **********************
+12/13/2020 10:05:45 AM: INFO: ******************** Logged in **********************
+12/13/2020 10:05:54 AM: INFO: ******************* Customer page opened *********************
+12/13/2020 10:05:57 AM: INFO: ********************* Add a new customer page opened********************************
+12/13/2020 10:05:57 AM: INFO: ********************* Start entering the values ********************************
+12/13/2020 10:06:02 AM: INFO: ********************* End entering the values ********************************
+12/13/2020 10:06:05 AM: INFO: ********************* start Validation ********************************
+12/13/2020 10:06:06 AM: INFO: ********* Add customer Test Passed *********
+12/13/2020 10:06:06 AM: INFO: ******* Ending Add customer test **********
+12/13/2020 10:06:10 AM: INFO: ************* SearchCustomerByEmail_004 **********
+12/13/2020 10:06:20 AM: INFO: ************* Login succesful **********
+12/13/2020 10:06:20 AM: INFO: ******* Starting Search Customer By Email **********
+12/13/2020 10:06:22 AM: INFO: ************* searching customer by emailID **********
+12/13/2020 10:06:27 AM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+12/13/2020 10:06:31 AM: INFO: ************* SearchCustomerByName_005 **********
+12/13/2020 10:06:42 AM: INFO: ************* Login succesful **********
+12/13/2020 10:06:42 AM: INFO: ******* Starting Search Customer By Name **********
+12/13/2020 10:06:46 AM: INFO: ************* searching customer by Name **********
+12/13/2020 10:06:52 AM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+12/13/2020 10:06:55 AM: INFO: ******************** Test_001_Login **********************
+12/13/2020 10:06:55 AM: INFO: ******************** Verifying test_homepageTitle **********************
+12/13/2020 10:07:01 AM: ERROR: ******************** Verifying test_homepageTitle [FAILED] **********************
+12/13/2020 10:07:05 AM: INFO: ******************** Verifying test_login **********************
+12/13/2020 10:07:11 AM: ERROR: ******************** Verifying test_login [FAILED] **********************
+12/13/2020 10:07:15 AM: INFO: ********************Test_001_Login***************************
+12/13/2020 10:07:15 AM: INFO: ******************** Verifying test_login_ddt **********************
+12/13/2020 10:07:24 AM: INFO: ****PASSED*****
+12/13/2020 10:07:27 AM: INFO: ******PASSED*********
+12/13/2020 10:07:28 AM: INFO: ******PASSED*********
+12/13/2020 10:07:28 AM: INFO: ******PASSED*********
+12/13/2020 10:07:28 AM: INFO: ***********test_login_ddt [PASSED]*************
+12/13/2020 10:07:29 AM: INFO: *************** End of test_login_ddt *******************

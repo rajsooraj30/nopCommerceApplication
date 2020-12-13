@@ -24,7 +24,7 @@ class Test_001_Login():
         self.driver.get(self.baseURL)
         self.driver.implicitly_wait(5)
         act_title = self.driver.title
-        if act_title == 'Your store. Logi':
+        if act_title == 'Your store. Login':
             assert True
             self.driver.close()
             self.logger.info("******************** Verifying test_homepageTitle [PASSED] **********************")
@@ -50,7 +50,7 @@ class Test_001_Login():
         self.driver.implicitly_wait(5)
         act_title = self.driver.title
 
-        if act_title == "Dashboard / nopCommerce administratio":
+        if act_title == "Dashboard / nopCommerce administration":
             assert True
             self.driver.close()
             self.logger.info("******************** Verifying test_login [PASSSED] **********************")
