@@ -127,3 +127,37 @@
 12/13/2020 10:07:28 AM: INFO: ******PASSED*********
 12/13/2020 10:07:28 AM: INFO: ***********test_login_ddt [PASSED]*************
 12/13/2020 10:07:29 AM: INFO: *************** End of test_login_ddt *******************
+12/13/2020 10:34:26 AM: INFO: ******************** Test_003_AddCustomer **********************
+12/13/2020 10:34:38 AM: INFO: ******************** Logged in **********************
+12/13/2020 10:34:47 AM: INFO: ******************* Customer page opened *********************
+12/13/2020 10:34:49 AM: INFO: ********************* Add a new customer page opened********************************
+12/13/2020 10:34:49 AM: INFO: ********************* Start entering the values ********************************
+12/13/2020 10:34:53 AM: INFO: ********************* End entering the values ********************************
+12/13/2020 10:34:56 AM: INFO: ********************* start Validation ********************************
+12/13/2020 10:34:57 AM: INFO: ********* Add customer Test Passed *********
+12/13/2020 10:34:57 AM: INFO: ******* Ending Add customer test **********
+12/13/2020 10:35:01 AM: INFO: ************* SearchCustomerByEmail_004 **********
+12/13/2020 10:35:13 AM: INFO: ************* Login succesful **********
+12/13/2020 10:35:13 AM: INFO: ******* Starting Search Customer By Email **********
+12/13/2020 10:35:17 AM: INFO: ************* searching customer by emailID **********
+12/13/2020 10:35:23 AM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+12/13/2020 10:35:27 AM: INFO: ************* SearchCustomerByName_005 **********
+12/13/2020 10:35:36 AM: INFO: ************* Login succesful **********
+12/13/2020 10:35:36 AM: INFO: ******* Starting Search Customer By Name **********
+12/13/2020 10:35:41 AM: INFO: ************* searching customer by Name **********
+12/13/2020 10:35:47 AM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+12/13/2020 10:35:51 AM: INFO: ******************** Test_001_Login **********************
+12/13/2020 10:35:51 AM: INFO: ******************** Verifying test_homepageTitle **********************
+12/13/2020 10:35:52 AM: INFO: ******************** Verifying test_homepageTitle [PASSED] **********************
+12/13/2020 10:35:55 AM: INFO: ******************** Verifying test_login **********************
+12/13/2020 10:36:01 AM: INFO: ******************** Verifying test_login [PASSSED] **********************
+12/13/2020 10:36:05 AM: INFO: ********************Test_001_Login***************************
+12/13/2020 10:36:05 AM: INFO: ******************** Verifying test_login_ddt **********************
+12/13/2020 10:36:12 AM: INFO: ****PASSED*****
+12/13/2020 10:36:15 AM: INFO: ******PASSED*********
+12/13/2020 10:36:15 AM: INFO: ******PASSED*********
+12/13/2020 10:36:17 AM: INFO: ******PASSED*********
+12/13/2020 10:36:17 AM: INFO: ***********test_login_ddt [PASSED]*************
+12/13/2020 10:36:17 AM: INFO: *************** End of test_login_ddt *******************
+12/13/2020 10:39:01 AM: INFO: ******************** Test_003_AddCustomer **********************
+12/13/2020 10:39:07 AM: INFO: ******************** Logged in **********************
